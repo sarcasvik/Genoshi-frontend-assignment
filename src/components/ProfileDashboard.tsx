@@ -7,12 +7,12 @@ const ProfileDashboard: React.FC = () => {
   const userData = {
     name: 'Satvik Maheshwari',
     email: 'satvikmaheshwari10@gmail.com',
-    profilePhoto: '/photo.jpg',
+    profilePhoto: '/photo.png',
     bio: 'Software Engineer.',
     subscriptionPlan: 'Pro Plan',
     subscriptionStatus: 'Active',
-    graphsCreated: 10,
-    graphsShared: 5,
+    graphsCreated: 12,
+    graphsShared: 6,
     papersCollected: 8,
     recentActivity: [
       { type: 'graph', title: 'Graph Title 1', date: '2023-01-01' },
