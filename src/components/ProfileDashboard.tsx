@@ -5,10 +5,10 @@ import { Link } from 'react-router-dom';
 const ProfileDashboard: React.FC = () => {
   // Simulated user data
   const userData = {
-    name: 'Akash Singh',
-    email: 'Akash.singh@example.com',
+    name: 'Satvik Maheshwari',
+    email: 'satvikmaheshwari10@gmail.com',
     profilePhoto: '/photo.jpg',
-    bio: 'Software Engineer by trade.',
+    bio: 'Software Engineer.',
     subscriptionPlan: 'Pro Plan',
     subscriptionStatus: 'Active',
     graphsCreated: 10,
